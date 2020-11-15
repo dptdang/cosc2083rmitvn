@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dtdangpham created this newfile.txt
+=======
+dptdang created this new file txt
+>>>>>>> fe0cd65cb44ad5413327932085e2c9b1542c3638
